@@ -1,4 +1,4 @@
-# Big-Dasta-Project
+# Big-Data-Project
 DS 1004
 
 This is the final project of DS-GA1004: Discover Composite keys.
